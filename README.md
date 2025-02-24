@@ -52,8 +52,7 @@ To view the portfolio:
     ```
 3. Open `index.html` in your preferred web browser.
 ## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justshfarida)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justshfarida)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justshfarida&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justshfarida&langs_count=8)
 
