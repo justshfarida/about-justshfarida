@@ -53,8 +53,16 @@ To view the portfolio:
 3. Open `index.html` in your preferred web browser.
 ## My stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=justshfarida)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=justshfarida&langs_count=7)](https://github-stats-extended.vercel.app/api/top-langs?username=justshfarida&langs_count=7)
+<p>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img align="top" height="180" alt="Farida's GitHub stats"
+      src="https://github-stats-extended.vercel.app/api?username=justshfarida&show_icons=true&include_all_commits=true&cache_seconds=14400&v=2" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img align="top" height="180" alt="Farida's top languages"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=justshfarida&langs_count=7&layout=compact&cache_seconds=14400&v=2" />
+  </a>
+</p>
 
 ## License
 
